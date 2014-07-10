@@ -1,7 +1,5 @@
-mingenhuang.github.io
-=====================
-
 个人主页——黄明恩
+=====================
 
 Zip-code: 100044
 E-mail  :  mingenhuang@gmail.com
