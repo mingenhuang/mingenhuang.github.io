@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 致友人书
-category: 生活
+category: 音乐
 tags: 年终总结
 keywords: 
 description: 

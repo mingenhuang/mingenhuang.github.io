@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 与亚敏走在石像路
-category: 绘画
+category: 摄影
 tags: 
 keywords: 
 description: 
