@@ -19,16 +19,16 @@ description:
 
 * 雪谷全景
 
-![索菲亚教堂图片](/public/img/travel/3.JPG)
+![雪谷全景图片](/public/img/travel/3.JPG)
 
 * 雪谷客栈
 
-![索菲亚教堂图片](/public/img/travel/6.JPG)
+![雪谷客栈图片](/public/img/travel/6.jpg)
 
 * 雪谷雪橇
 
-![索菲亚教堂图片](/public/img/travel/4.JPG)
+![雪橇图片](/public/img/travel/4.JPG)
 
 * 雪谷游乐场
 
-![索菲亚教堂图片](/public/img/travel/8.JPG)
+![雪谷游乐场图片](/public/img/travel/8.jpg)
