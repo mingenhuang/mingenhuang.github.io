@@ -18,8 +18,8 @@ url: http://painterlin.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/blog_icon.jpg
-favicon: /public/img/blog_icon.jpg
+gavatar: /public/img/blog_icon2.jpg
+favicon: /public/img/blog_icon2.jpg
 
 # google analytics 设置
 ga:

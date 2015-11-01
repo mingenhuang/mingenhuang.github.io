@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 与亚敏走在石像路
+title: 走在石像路上
 category: 摄影
 tags: 
 keywords: 

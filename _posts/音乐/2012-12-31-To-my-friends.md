@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 致友人书
+title: 友人书
 category: 音乐
 tags: 年终总结
 keywords: 
