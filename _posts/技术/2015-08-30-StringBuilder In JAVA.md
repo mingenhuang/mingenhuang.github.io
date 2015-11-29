@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 那些年在JAVA开发中使用StringBuilder踩过的坑
+title: 用JAVA的StringBuilder踩过的坑
 category: 技术
 tags: JAVA
 keywords: 
